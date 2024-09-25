@@ -1,0 +1,1 @@
+web: gunicorn main: translate_app
